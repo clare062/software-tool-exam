@@ -1,2 +1,3 @@
 # software-tool-exam
-an latex document
+this repo is created for exam purpose only 
+
